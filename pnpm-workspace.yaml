@@ -5,3 +5,10 @@ packages:
   - site
 ignoredBuiltDependencies:
   - esbuild
+packages:
+  - packages/*
+  - examples/facilitator
+  - examples/**/*
+  - site
+ignoredBuiltDependencies:
+  - esbuild
