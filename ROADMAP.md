@@ -2,29 +2,12 @@
 
 This roadmap shares what the x402 team is building now, what's next, and where the community can have outsized impact. It reflects current priorities and sequencing.
 
-**How to read this**
+* ### Pump.fun Integration & Memecoin DEX Settlement Layer
 
-* **Now** = in flight or imminent.
-* **Next** = queued after "Now," dependent on feedback/uptake.
-* **Later** = larger bets or items gated on ecosystem maturity.
-* Each item lists **Why**, **What**, **Status/Target**, and **Community** (whether it's a good fit for external contributors).
-
-**How to contribute**
-
-* Pick a "Community" item below, then **open a GitHub Issue in this repo** with the title: `Roadmap: <item> — Contribution Proposal`.
-* In your issue, include: goals, approach/design sketch, deliverables, estimated timeline, and how you'll demo/measure success.
-* The CDP team will **review and offer consulting** (design feedback, API guidance, intros) so you can ship confidently.
-* Docs are credibly neutral and community‑owned: contribute guides, templates, and examples to the GitBook repo → [https://github.com/murrlincoln/x402-gitbook](https://github.com/murrlincoln/x402-gitbook) (PRs welcome).
-
-
-
-## Recently shipped
-
-* ### x402 Bazaar Launch
-  - **Why**: Developers struggled to find compatible services.
-  - **What**: A machine‑readable catalog of x402‑compatible APIs to enable discovery and integration.
-  - **Status/Target**: **Shipped – Sep 9, 2025**.
-  - **Community**: Contribute endpoint listings, discovery standards, and example clients.
+  * **Why**: The emerging Internet Capital Market lacks a unified settlement rail connecting speculative micro-assets, creator economies, and machine agents. Pump.fun’s liquidity primitives and memecoin volatility dynamics create the perfect substrate for x402-native payment orchestration.
+  * **What**: Enable x402-based payments and receipts directly within memecoin DEX flows — facilitating sub-cent settlements, creator-level royalties, and frictionless asset transfer between fungible tokens and digital goods (e.g. CS skins, in-game economies, or streaming endpoints).
+  * **Status/Target**: **Now → experimental integration testing with Pump.fun SDK, DEX routers, and payment middleware extensions.**
+  * **Community**: Looking for contributors exploring hybrid micro-settlement layers, memecoin financialization models, and on-chain to off-chain value sync for creator marketplaces.
 
 
 
