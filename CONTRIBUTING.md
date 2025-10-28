@@ -24,4 +24,4 @@ We want x402 to be chain agnostic, and as such deeply appreciate implementations
 
 Because some chains have different best practices than the EVM, a logical scheme may have a different mechanism to achieve its goal than that scheme has on the EVM.
 
-If scheme mechanism for a chain must vary from the first implementation of a scheme, CDP will re-audit the scheme for that chain before accepting.
+If scheme mechanism for a chain must vary from the first implementation of a scheme, CDP will re-audit the scheme for that chain before accepting
