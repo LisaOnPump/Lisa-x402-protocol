@@ -57,13 +57,7 @@ mvn clean install
 
 Then add the dependency to your Maven project:
 
-```xml
-<dependency>
-    <groupId>com.coinbase</groupId>
-    <artifactId>x402</artifactId>
-    <version>0.1.0-SNAPSHOT</version>
-</dependency>
-```
+
 
 ## Usage
 
@@ -71,9 +65,6 @@ Then add the dependency to your Maven project:
 
 Integrate the `x402` filter into your servlet-based application to require payment for specific paths:
 
-```java
-import com.coinbase.x402.server.PaymentFilter;
-import com.coinbase.x402.client.HttpFacilitatorClient;
 
 import java.math.BigInteger;
 import java.util.Map;
@@ -114,8 +105,6 @@ public FilterRegistration paymentFilter(ServletContext servletContext) {
 To make HTTP requests that include payment proofs:
 
 ```java
-import com.coinbase.x402.client.X402HttpClient;
-import com.coinbase.x402.crypto.CryptoSigner;
 
 import java.math.BigInteger;
 import java.net.URI;
@@ -150,8 +139,7 @@ System.out.println("Response: " + response.body());
 Here's a complete example of a Spring Boot application with a paid joke API:
 
 ```java
-import com.coinbase.x402.server.PaymentFilter;
-import com.coinbase.x402.client.HttpFacilitatorClient;
+
 import javax.servlet.DispatcherType;
 import javax.servlet.FilterRegistration;
 import javax.servlet.ServletContext;
