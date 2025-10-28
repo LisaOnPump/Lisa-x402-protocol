@@ -2,9 +2,11 @@ x402 emerges as the settlement layer for memecoins — a primitive connecting th
 An Internet Capital Market built on instant finality, zero friction, and programmable value transfer. One line of code turns speculation into settlement.
 
 
+<img width="4320" height="1440" alt="RISA BANNER 2K (1)" src="https://github.com/user-attachments/assets/c6f1d993-94f9-4005-8848-c2266c6c0e7c" />
 
 
-<img width="4320" height="1440" alt="risa banner" src="https://github.com/user-attachments/assets/c7978387-5408-4e1f-aa56-96431161a43d" />
+
+
 
 # x402 payments protocol
 
