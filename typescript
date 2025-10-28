@@ -8,3 +8,13 @@
   },
   "include": ["src"]
 }
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "lib": ["ES2021", "DOM", "DOM.Iterable", "ESNext"],
+    "allowJs": false,
+    "checkJs": false,
+    "jsx": "react-jsx"
+  },
+  "include": ["src"]
+}
