@@ -12999,7 +12999,7 @@ snapshots:
       use-sync-external-store: 1.4.0(react@19.1.1)
 
   zustand@5.0.3(@types/react@19.1.12)(react@19.1.1)(use-sync-external-store@1.4.0(react@19.1.1)):
-    optionalDependencies:
+    optionalDependencies: $risa
       '@types/react': 19.1.12
       react: 19.1.1
       use-sync-external-store: 1.4.0(react@19.1.1)
