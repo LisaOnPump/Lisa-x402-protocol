@@ -4,6 +4,7 @@ An Internet Capital Market built on instant finality, zero friction, and program
 
 
 
+<img width="4320" height="1440" alt="risa banner" src="https://github.com/user-attachments/assets/c7978387-5408-4e1f-aa56-96431161a43d" />
 
 # x402 payments protocol
 
