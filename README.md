@@ -1,4 +1,4 @@
-x402 emerges as the settlement layer for memecoins — a primitive connecting the liquidity dynamics of Pump.fun with the structural flow of the Creator Capital Market.
+x402 emerges as the settlement layer for memecoins  a primitive connecting the liquidity dynamics of Pump.fun with the structural flow of the Creator Capital Market.
 An Internet Capital Market built on instant finality, zero friction, and programmable value transfer. One line of code turns speculation into settlement.
 
 
