@@ -3,7 +3,8 @@ An Internet Capital Market built on instant finality, zero friction, and program
 
 
 
-<img width="4320" height="1440" alt="LISA BANNER" src="https://github.com/user-attachments/assets/48e17cb4-de2e-4bec-b0bb-df2c1011e26b" />
+
+<img width="4320" height="1440" alt="nolasized" src="https://github.com/user-attachments/assets/09cd8189-7c57-49d0-a125-ec3b59fffdb1" />
 
 
 
