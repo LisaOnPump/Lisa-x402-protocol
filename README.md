@@ -2,7 +2,8 @@ x402 emerges as the settlement layer for memecoins  a primitive connecting the l
 An Internet Capital Market built on instant finality, zero friction, and programmable value transfer. One line of code turns speculation into settlement.
 
 
-<img width="4320" height="1440" alt="MISA BANNER 4K (1)" src="https://github.com/user-attachments/assets/ea2cddc2-170a-48ff-afde-e97d7df9f5ed" />
+
+<img width="4320" height="1440" alt="LISA BANNER" src="https://github.com/user-attachments/assets/48e17cb4-de2e-4bec-b0bb-df2c1011e26b" />
 
 
 
