@@ -4,7 +4,8 @@ An Internet Capital Market built on instant finality, zero friction, and program
 
 
 
-<img width="4320" height="1440" alt="nolasized" src="https://github.com/user-attachments/assets/09cd8189-7c57-49d0-a125-ec3b59fffdb1" />
+<img width="4320" height="1440" alt="LUNABANNER2K (1)" src="https://github.com/user-attachments/assets/c51f1d38-d36c-42c4-8c06-342fde1217bc" />
+
 
 
 
